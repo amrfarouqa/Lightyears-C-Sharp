@@ -1,0 +1,27 @@
+c:\users\amr\documents\visual studio 2015\Projects\Lightyears\Lightyears\bin\Debug\Lightyears.exe.config
+c:\users\amr\documents\visual studio 2015\Projects\Lightyears\Lightyears\bin\Debug\Lightyears.exe
+c:\users\amr\documents\visual studio 2015\Projects\Lightyears\Lightyears\bin\Debug\Lightyears.pdb
+c:\users\amr\documents\visual studio 2015\Projects\Lightyears\Lightyears\obj\Debug\Lightyears.Form1.resources
+c:\users\amr\documents\visual studio 2015\Projects\Lightyears\Lightyears\obj\Debug\Lightyears.Properties.Resources.resources
+c:\users\amr\documents\visual studio 2015\Projects\Lightyears\Lightyears\obj\Debug\Lightyears.csproj.GenerateResource.Cache
+c:\users\amr\documents\visual studio 2015\Projects\Lightyears\Lightyears\obj\Debug\Lightyears.exe
+c:\users\amr\documents\visual studio 2015\Projects\Lightyears\Lightyears\obj\Debug\Lightyears.pdb
+E:\C\Lightyears\Lightyears\bin\Debug\Lightyears.exe.config
+E:\C\Lightyears\Lightyears\obj\Debug\Lightyears.exe
+E:\C\Lightyears\Lightyears\obj\Debug\Lightyears.pdb
+E:\C\Lightyears\Lightyears\bin\Debug\Lightyears.exe
+E:\C\Lightyears\Lightyears\bin\Debug\Lightyears.pdb
+E:\C\Lightyears\Lightyears\obj\Debug\Lightyears.csprojResolveAssemblyReference.cache
+E:\C\Lightyears\Lightyears\obj\Debug\Lightyears.Form1.resources
+E:\C\Lightyears\Lightyears\obj\Debug\Lightyears.Properties.Resources.resources
+E:\C\Lightyears\Lightyears\obj\Debug\Lightyears.csproj.GenerateResource.Cache
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\bin\Debug\Lightyears.exe.config
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\bin\Debug\Lightyears.exe
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\bin\Debug\Lightyears.pdb
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\obj\Debug\Lightyears.csprojAssemblyReference.cache
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\obj\Debug\Lightyears.Form1.resources
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\obj\Debug\Lightyears.Properties.Resources.resources
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\obj\Debug\Lightyears.csproj.GenerateResource.cache
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\obj\Debug\Lightyears.csproj.CoreCompileInputs.cache
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\obj\Debug\Lightyears.exe
+C:\Users\AmrWin10Pro\Desktop\C#\Lab\Lightyears\Lightyears\obj\Debug\Lightyears.pdb
